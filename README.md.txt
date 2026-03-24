@@ -1,36 +1,36 @@
-# 📊 Análise de Vendas com Power BI
+ 📊 Análise de Vendas com Power BI
 
-## 📌 Objetivo
+📌 Objetivo
 
 Analisar dados de vendas para identificar padrões, desempenho de produtos e evolução da receita ao longo do tempo.
 
 ---
 
-## 🛠️ Ferramentas utilizadas
+🛠️ Ferramentas utilizadas
 
-* Power BI
-* DAX
-
----
-
-## 📊 Métricas analisadas
-
-* Receita total
-* Lucro total
-* Ticket médio
-* Quantidade de pedidos
+ Power BI
+ DAX
 
 ---
 
-## 📈 Visualizações
+ 📊 Métricas analisadas
 
-* Evolução da receita mensal
-* Receita por produto
-* Top 10 produtos por quantidade de pedidos
+ Receita total
+ Lucro total
+ Ticket médio
+ Quantidade de pedidos
 
 ---
 
-## 💡 Insights
+ 📈 Visualizações
+
+ Evolução da receita mensal
+ Receita por produto
+ Top 10 produtos por quantidade de pedidos
+
+---
+
+ 💡 Insights
 
 * Identificação de variações mensais na receita
 * Destaque dos produtos com maior volume de vendas
@@ -38,6 +38,6 @@ Analisar dados de vendas para identificar padrões, desempenho de produtos e evo
 
 ---
 
-## 🚀 Autor
+🚀 Autor
 
 Marcello Romero
